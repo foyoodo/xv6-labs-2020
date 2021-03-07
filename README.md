@@ -2,7 +2,7 @@
 
 ## Progress
 
-- [ ] [Lab util: Unix utilities](https://github.com/foyoodo/xv6-labs-2020/tree/util)
+- [x] [Lab util: Unix utilities](https://github.com/foyoodo/xv6-labs-2020/tree/util)
 - [ ] [Lab syscall: System calls](https://github.com/foyoodo/xv6-labs-2020/tree/syscall)
 - [ ] [Lab pgtbl: Page tables](https://github.com/foyoodo/xv6-labs-2020/tree/pgtbl)
 - [ ] [Lab traps: Trap](https://github.com/foyoodo/xv6-labs-2020/tree/traps)
