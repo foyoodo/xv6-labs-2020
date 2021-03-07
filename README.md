@@ -15,3 +15,13 @@
 - [ ] [Lab net: Network stack](https://github.com/foyoodo/xv6-labs-2020/tree/net)
 
 ⭐️ From [Lollipop's repo](https://github.com/gaofanfei/xv6-riscv-fall20)
+
+## Detail
+
+### Lab util
+
+- [sleep](https://github.com/foyoodo/xv6-labs-2020/commit/aa8d91d5112c73840496902fd96701bf7997564e)
+- [pingpong](https://github.com/foyoodo/xv6-labs-2020/commit/f5693b044e5fbeabcee743f3e4c2e8b9a69d7c86)
+- [primes](https://github.com/foyoodo/xv6-labs-2020/commit/1d04c1080b3b16756bace37f9b25363eeff9d93b)
+- [find](https://github.com/foyoodo/xv6-labs-2020/commit/285299dcf16d23bf7fdcd460cc314e658766a358)
+- [xargs](https://github.com/foyoodo/xv6-labs-2020/commit/a1ceb896b259847d66143c75478f654ec8c2cf61)
