@@ -25,3 +25,8 @@
 - [primes](https://github.com/foyoodo/xv6-labs-2020/commit/1d04c1080b3b16756bace37f9b25363eeff9d93b)
 - [find](https://github.com/foyoodo/xv6-labs-2020/commit/285299dcf16d23bf7fdcd460cc314e658766a358)
 - [xargs](https://github.com/foyoodo/xv6-labs-2020/commit/a1ceb896b259847d66143c75478f654ec8c2cf61)
+
+#### Optional
+
+- [uptime](https://github.com/foyoodo/xv6-labs-2020/commit/0318941645e6f15c9061009b0f40f753c42fbcbc)
+- [regexfind](https://github.com/foyoodo/xv6-labs-2020/commit/5638b40bf96cc5ffbba7b7a4677aca6ce9c3bb65)
