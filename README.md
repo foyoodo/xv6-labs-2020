@@ -3,7 +3,7 @@
 ## Progress
 
 - [x] [Lab util: Unix utilities](https://github.com/foyoodo/xv6-labs-2020/tree/util)
-- [ ] [Lab syscall: System calls](https://github.com/foyoodo/xv6-labs-2020/tree/syscall)
+- [x] [Lab syscall: System calls](https://github.com/foyoodo/xv6-labs-2020/tree/syscall)
 - [ ] [Lab pgtbl: Page tables](https://github.com/foyoodo/xv6-labs-2020/tree/pgtbl)
 - [ ] [Lab traps: Trap](https://github.com/foyoodo/xv6-labs-2020/tree/traps)
 - [ ] [Lab lazy: Lazy allocation](https://github.com/foyoodo/xv6-labs-2020/tree/lazy)
@@ -34,3 +34,4 @@
 ### Lab syscall: System calls
 
 - [tracing](https://github.com/foyoodo/xv6-labs-2020/commit/9b484395a60140b52a562810b610ba9ab61a2ab2)
+- [sysinfo](https://github.com/foyoodo/xv6-labs-2020/commit/03893010ad44fe74fa3f5609fc97049bea9c02d8)
