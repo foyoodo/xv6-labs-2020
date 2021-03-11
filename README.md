@@ -18,7 +18,7 @@
 
 ## Detail
 
-### Lab util
+### Lab util: Unix utilities
 
 - [sleep](https://github.com/foyoodo/xv6-labs-2020/commit/aa8d91d5112c73840496902fd96701bf7997564e)
 - [pingpong](https://github.com/foyoodo/xv6-labs-2020/commit/f5693b044e5fbeabcee743f3e4c2e8b9a69d7c86)
@@ -30,3 +30,7 @@
 
 - [uptime](https://github.com/foyoodo/xv6-labs-2020/commit/0318941645e6f15c9061009b0f40f753c42fbcbc)
 - [regexfind](https://github.com/foyoodo/xv6-labs-2020/commit/5638b40bf96cc5ffbba7b7a4677aca6ce9c3bb65)
+
+### Lab syscall: System calls
+
+- [tracing](https://github.com/foyoodo/xv6-labs-2020/commit/9b484395a60140b52a562810b610ba9ab61a2ab2)
