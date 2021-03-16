@@ -35,3 +35,7 @@
 
 - [tracing](https://github.com/foyoodo/xv6-labs-2020/commit/9b484395a60140b52a562810b610ba9ab61a2ab2)
 - [sysinfo](https://github.com/foyoodo/xv6-labs-2020/commit/03893010ad44fe74fa3f5609fc97049bea9c02d8)
+
+### Lab pgtbl: Page tables
+
+- [vmprint](https://github.com/foyoodo/xv6-labs-2020/commit/5d14570069535d72f68c1be579bfc107e799b09b)
