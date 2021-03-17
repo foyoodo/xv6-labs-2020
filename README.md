@@ -39,3 +39,4 @@
 ### Lab pgtbl: Page tables
 
 - [vmprint](https://github.com/foyoodo/xv6-labs-2020/commit/5d14570069535d72f68c1be579bfc107e799b09b)
+- [kpagetable](https://github.com/foyoodo/xv6-labs-2020/commit/758490d2a9369c03de43790b461ccb46c22aae9c)
