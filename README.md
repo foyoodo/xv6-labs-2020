@@ -4,7 +4,7 @@
 
 - [x] [Lab util: Unix utilities](https://github.com/foyoodo/xv6-labs-2020/tree/util)
 - [x] [Lab syscall: System calls](https://github.com/foyoodo/xv6-labs-2020/tree/syscall)
-- [ ] [Lab pgtbl: Page tables](https://github.com/foyoodo/xv6-labs-2020/tree/pgtbl)
+- [x] [Lab pgtbl: Page tables](https://github.com/foyoodo/xv6-labs-2020/tree/pgtbl)
 - [ ] [Lab traps: Trap](https://github.com/foyoodo/xv6-labs-2020/tree/traps)
 - [ ] [Lab lazy: Lazy allocation](https://github.com/foyoodo/xv6-labs-2020/tree/lazy)
 - [ ] [Lab cow: Copy-on-write fork](https://github.com/foyoodo/xv6-labs-2020/tree/cow)
@@ -40,3 +40,4 @@
 
 - [vmprint](https://github.com/foyoodo/xv6-labs-2020/commit/5d14570069535d72f68c1be579bfc107e799b09b)
 - [kpagetable](https://github.com/foyoodo/xv6-labs-2020/commit/758490d2a9369c03de43790b461ccb46c22aae9c)
+- [ukvmcopy](https://github.com/foyoodo/xv6-labs-2020/commit/0c53a283ab746559a1f86a1c91a2150689b3fa0e)
