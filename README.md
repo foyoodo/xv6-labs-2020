@@ -41,3 +41,7 @@
 - [vmprint](https://github.com/foyoodo/xv6-labs-2020/commit/5d14570069535d72f68c1be579bfc107e799b09b)
 - [kpagetable](https://github.com/foyoodo/xv6-labs-2020/commit/758490d2a9369c03de43790b461ccb46c22aae9c)
 - [ukvmcopy](https://github.com/foyoodo/xv6-labs-2020/commit/0c53a283ab746559a1f86a1c91a2150689b3fa0e)
+
+### Lab traps: Trap
+
+- [backtrace](https://github.com/foyoodo/xv6-labs-2020/commit/f70996c07acb62e7493ca1f68476a038889da936)
